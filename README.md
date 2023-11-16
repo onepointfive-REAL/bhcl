@@ -1,7 +1,7 @@
 # bhcl
 Custom launcher similar to launcher hijack
 # Releases
-https://github.com/BRANDONHARMSEN/bhcl/releases
+https://github.com/onepointfive-REAL/bhcl/releases
 # How to
 1. Download the zip file
 2. If 0.0.1-beta run installbhcl.bat if newer than that then run bhcl.exe
