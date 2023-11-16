@@ -5,7 +5,7 @@ https://github.com/BRANDONHARMSEN/bhcl/releases
 # How to
 1. Download the zip file
 2. If 0.0.1-beta run installbhcl.bat if newer than that then run bhcl.exe
-# Arguments (only newer than 0.0.1-beta)
+# Arguments (only newer than 0.0.1-beta)e
 bhcl.exe yes will supress the yes/no prompt
 bhcl.exe no will just cancel it (useful if inside of another app)
 # Why did i make this?
