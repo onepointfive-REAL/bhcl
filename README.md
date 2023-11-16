@@ -1,6 +1,6 @@
 # bhcl
 Custom launcher similar to launcher hijack
-# Releasese
+# Releases
 https://github.com/BRANDONHARMSEN/bhcl/releases
 # How to
 1. Download the zip file
